@@ -2,7 +2,7 @@
 
 ### I am a software development student at Epicodus.
 
-- ✏️ I’m currently learning C#
+- ✏️ I’m currently learning React
 
 - 📫 Reach me at *shanizalingle@gmail.com*
 
