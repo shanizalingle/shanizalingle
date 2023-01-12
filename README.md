@@ -1,6 +1,6 @@
 # 👋 Hey, I’m @shanizalingle
 
-### I am an UI/UX designer and developer.
+### I am a UI/UX designer and developer.
 
 - 💻 I’m currently interning at Digital Commotion
 
