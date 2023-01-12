@@ -1,8 +1,8 @@
 # 👋 Hey, I’m @shanizalingle
 
-### I am a software development student at Epicodus.
+### I am an UI/UX designer and developer.
 
-- ✏️ I’m currently learning React
+- 💻 I’m currently interning at Digital Commotion
 
 - 📫 Reach me at *shanizalingle@gmail.com*
 
