@@ -2,7 +2,7 @@
 
 ### I am a UI/UX designer and developer.
 
-- 💻 I’m currently interning at Digital Commotion
+- 💻 I’m currently working at Digital Commotion
 
 - 📫 Reach me at *shanizalingle@gmail.com*
 
