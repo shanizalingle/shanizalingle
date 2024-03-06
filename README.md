@@ -2,7 +2,7 @@
 
 ### I am a UI/UX designer and developer.
 
-- 💻 I’m currently working at Digital Commotion
+- 🎓 I’m currently getting my Computer Science degree at ASU
 
 - 📫 Reach me at *shanizalingle@gmail.com*
 
